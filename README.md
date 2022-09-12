@@ -1,2 +1,2 @@
 # fhnw-ds-daw-fs2021-covid
-Code from COVID mini challenge in data wrangling class.
+This is my code from the COVID mini-challenge in the data wrangling class. I created a simple data wrangling using pandas and visualized the data using plotly.
